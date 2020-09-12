@@ -1,4 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+/* svg loading icon */
+svg path,
+svg rect{
+  fill: black;
+}
+/* animated pictures */
 .animated {
     -webkit-animation-duration: 1s;
     animation-duration: 1s;
